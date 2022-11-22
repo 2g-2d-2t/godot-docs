@@ -1,15 +1,15 @@
 .. _doc_getting_source:
 
-Getting the source
+گرفتن منبع
 ==================
 
 .. highlight:: shell
 
-Downloading the Godot source code
+دانلود کد منبع از گودت
 ---------------------------------
 
-Before :ref:`getting into the SCons build system <doc_introduction_to_the_buildsystem>`
-and compiling Godot, you need to actually download the Godot source code.
+Before :ref:`قبل از ورود به سیستم scons <doc_introduction_to_the_buildsystem>`
+و کامپایل کودوت باید کد منبع godot را دانلود کنید.
 
 The source code is available on `GitHub <https://github.com/godotengine/godot>`__
 and while you can manually download it via the website, in general you want to
